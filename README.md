@@ -1,78 +1,124 @@
-Cluster 1
+# README
+
+This is a repository of XL4 samples.
+
+Below you can see all samples grouped by the cluster they belong to; since not all samples can be made public, in this repository you will only find samples that have been seen on VirusTotal.
+
+All samples have been zipped using the usual password. If you want to add a sample to this repository make sure to use the `.bin` extension (which are set to be ignore by git) and run the `add_files.sh` script which will zip the files for you (and add the `.zip` extension).
+
+**Cluster 1**
+
+```
 032b584b85e8335f83c751dd9c70121eb329bc08
 30f908b7e97527e8a409ba93ec6258bdc7943b24
 26b7691ba5bac30670790f2af8b67aec37609729
 21deaf5c2adeb0ad3dae2048138c403691c3e71e
 17d62231f60e97121f7258b0296feeadb7996d5f
+```
 
-Cluster 2
+**Cluster 2**
+
+```
 0b01f4a1ca08c0136d84e3ec91af856579784451
 3db463c73a62b8bf0b6ab388884c6f3ad3a91c2f
 2df8277a9ac5869fa7d5a5838fe6ab428207cf9c
 Bb8d0af63f837e7f54d530d909feded623399a1b
 C1217a7a59dc307089901556985239039cb89cbb
+```
 
-Cluster 3
+**Cluster 3**
+
+```
 0b80a32171c3f1b21015e880c7d3eb216eeff103
 38d8c573b901bb0bf1cd1cc62945521923630e58
 4a57bf593c6dc515a869b0facc4e1f2e3f8e85e1
 2d8b6113d858f988977a82af82ca649963915ff7
 1f66200bd820646e74b56ed8493794861eebc479
+```
 
-Cluster 4
+**Cluster 4**
+
+```
 15c3d132b4bc52f32541f6c7cb307467b7b85ee5
 38d8c573b901bb0bf1cd1cc62945521923630e58
 4a57bf593c6dc515a869b0facc4e1f2e3f8e85e1
 2d8b6113d858f988977a82af82ca649963915ff7
 1f66200bd820646e74b56ed8493794861eebc479
+```
 
-Cluster 5
+**Cluster 5**
+
+```
 13d35c6a71ee02362905982cfdd4f19ea7971fb0
 52bc0b0ca4aa88000220627d150b4996e4a2bdc0
 768d376f9ee85803940810a0d538c0ff4bd3ec4d
 B547d9eb47e2977e4f85e92e62e9271875f3654b
 D724559f4e1be192b8e60d1076ba6f00a76a7910
+```
 
-Cluster 6
+**Cluster 6**
+
+```
 Ced11986de75f108b631ffa8165108fb14b81be5
 909196df72ba3f9e418379c184a435a7cad870e7
 8ef757ad7ed52c7da069124bbbb0aba3f793a109
 1e42150111e8347da68e7363c1545384609c62db
 Eb71e2f83bfc3f30b7fbe132b6c8d07c363ffa23
+```
 
-Cluster 7
+**Cluster 7**
+
+```
 2bfc5c38fe25a095161716c17d4828348130ccc0
 1fa19f7cf4f37966e131df657dc84b9372fa4e4e
 1f9e7110a0b58072466c0d5bece253ea7e6f74e1
 1c10fe44429a1cf0b875aef63f61469006f59682
 0b55491e45c50bde473e84c329127945cb20133f
+```
 
-Cluster 8
+**Cluster 8**
+
+```
 Bd34811e40ac4ac351ace6c117161904b2e08a12
 Bc152b1054983a5db6361ce34e246f2fd36e8f82
 B528c29632b8e517fbfcf317711636b1b9b874a8
 B6a2634e82a206c8759616d5be4c6913400bf9ae
 B4b9a6efe0277c7bf7599291912b9ab2c3e171a5
+```
 
-Cluster 9
+**Cluster 9**
+
+```
 1953ac3dabc8affd223277564b4c0d9ac1332a9b
+```
 
-Cluster 10
+**Cluster 10**
+
+```
 F377028e7946a812948a5c7ba44e954c8fbdfe4a
 F1459d32a711cd5e3a33b31334be28ed5ef9ed3d
 De942054e5a5b9b011acf04e3de492d951705b28
 D53200f073da1091fb7263644d8eec9c4d063b96
+```
 
-Cluster 11
+**Cluster 11**
+
+```
 68bcdbfd523c1288487178f0154a272eb316b0fb
 59c4702ac6d89d244dc40d56ec6c6491507da8c8
 51d1d14772d3087b426e74d91c977f33325c20e0
 11f71766d280e26763742573fae133a51dbbca8b
 8d15ea7926f2fcfeca8c2df4fc720d9fb428ca9e
+```
 
-Cluster 12
+**Cluster 12**
+
+```
 0339b41fe3dc92a1e95779cc5e3ac2b0fff0f48e
 198d3a4bc0b8af702a59cfab02f86476a5fcd5b0
 91e0eb52ff166781b795dda55ff76363d4146856
 89ae64f1a7db8dd4bd24daf587206c50c942d095
 87a87eb02940daa8a09e821d439a60e1ea01c039
+```
+
+
